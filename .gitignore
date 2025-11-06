@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.session
+crypto_session.session
+.env
